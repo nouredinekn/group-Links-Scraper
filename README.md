@@ -13,6 +13,25 @@
 
 
 </p>
+
+<hr>
+<h1> options</h1>
+<p align="left"> 
+
+           [1] WHATSAPP GROUP SCRAPER
+           [2] Telegram GROUP SCRAPER
+           [3] Telegram And WHATSAPP
+</p>
+
+<hr>
+<h1> hits snd to</h1>
+<p align="left"> 
+
+           [1] save as text
+           [2] save as bot
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nouredinekn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nouredinekn" height="30" width="40" /></a>
