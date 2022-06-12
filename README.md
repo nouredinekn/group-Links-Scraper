@@ -4,8 +4,9 @@
 <h1> install requirements </h1>
 <p align="left"> 
 
-    <pre> pip install beautifulsoup4 </pre>
-     <pre> pip install beautifulsoup4 </pre>
+           $ pip install beautifulsoup4 
+           $ pip install requests
+           $ pip install urllib3
   
   
 
