@@ -2,8 +2,8 @@
 <h3 align="center">by nouredine kaoine</h3>
 
 <p align="left"> 
-<h1> install requirements </h1>
-   <h3>  pip install beautifulsoup4  <h3>
+              <h1> install requirements </h1>
+          <h3>  pip install beautifulsoup4  <h3>
   
 
 
