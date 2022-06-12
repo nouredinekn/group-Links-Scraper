@@ -1,6 +1,27 @@
 <h1 align="center">group-Links-Scraper</h1>
 <h3 align="center">by nouredine kaoine</h3>
 
+<p align="left">  <img src='https://ibb.co/dpC77C2' width="400" height="400"/>
+
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1> install requirements </h1>
 <p align="left"> 
 
@@ -24,12 +45,13 @@
 </p>
 
 <hr>
-<h1> hits snd to</h1>
+<h1> save as</h1>
 <p align="left"> 
 
            [1] save as text
            [2] save as bot
 </p>
+<p> [!] if you wanna save as bot need bot token and your telegram id</p>
 
 
 <h3 align="left">Connect with me:</h3>
