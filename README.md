@@ -4,12 +4,14 @@
 <h1> install requirements </h1>
 <p align="left"> 
 
-           $ pip install beautifulsoup4 
-           $ pip install requests
-           $ pip install urllib3
-  
-  
+           $ pip install selenium 
+           
 
+
+</p>
+<p align="left"> 
+
+           $ pip install requests
 
 
 </p>
