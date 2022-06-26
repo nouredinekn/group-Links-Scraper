@@ -4,14 +4,12 @@
 <h1> install requirements </h1>
 <p align="left"> 
 
-           $ pip install selenium 
-           
-
-
-</p>
-<p align="left"> 
-
+           $ pip install 
            $ pip install requests
+           $ pip install urllib3
+  
+  
+
 
 
 </p>
